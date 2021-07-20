@@ -1,0 +1,59 @@
+h1 {
+    
+    color:#00FF00
+
+} 
+*{
+border:solid ;
+}
+
+
+.header{
+
+font-family: 'Courier New', Courier, monospace;
+font-size:20px;
+background-color: #00FF00;
+display:flex;
+justify-content:space-between;
+
+
+}
+
+
+
+
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    display:flex;
+    background-color:#00FF00;
+    color:mediumblue;
+    justify-content:center 
+}
+.footer{
+
+    background-color:#FF0000;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+    
+
+}
+.item   {
+    background-color:#AA00AA;  
+}
+body {
+    background-color:#000000;
+}
+.menu{
+    background-color:#FFFF00;
+
+
+
+}
+.styles{
+    background-color:#FF0000;
+    text-align: center;
+
+}
